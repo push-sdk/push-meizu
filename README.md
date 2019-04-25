@@ -25,9 +25,11 @@ meizu.push({
   title: '标题',
   content: '内容',
   list: ['pushId'], 
-  messageJson: {}, // 具体如下
+	messageJson: {}, // 具体如下
+	sleep: 0, // 请求间隔时间/毫秒
   success(res){}, // 成功回调
-  error(err){} // 失败回调
+	error(err){}, // 失败回调
+	finish(){} // 所有请求完成回调
 });
 ```
 
