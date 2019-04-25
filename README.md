@@ -8,6 +8,10 @@
 
 [小米推送](https://www.npmjs.com/package/push-xiaomi)
 
+[友盟推送](https://www.npmjs.com/package/push-umeng)
+
+[IOS推送](https://www.npmjs.com/package/push-ios)
+
 ## 安装
 ```
 npm install push-meizu --save-dev
