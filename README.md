@@ -8,6 +8,8 @@
 
 [小米推送](https://www.npmjs.com/package/push-xiaomi)
 
+[oppo推送](https://www.npmjs.com/package/push-oppo)
+
 [友盟推送](https://www.npmjs.com/package/push-umeng)
 
 [IOS推送](https://www.npmjs.com/package/push-ios)
