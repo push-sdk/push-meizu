@@ -86,3 +86,4 @@ const messageJson = {
 
 
 [魅族官方文档](http://open.res.flyme.cn/fileserver/upload/file/201803/be1f71eac562497f92b42c750196a062.pdf)
+[魅族push github](https://github.com/MEIZUPUSH/PushAPI)
