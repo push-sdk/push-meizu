@@ -1,6 +1,6 @@
 {
   "name": "push-meizu",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "push-meizu",
   "main": "index.js",
   "dependencies": {
